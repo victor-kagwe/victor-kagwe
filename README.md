@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victor-kagwe
-- Fullstack developer by day Gamer by night 
+- Software Engineer 
   
 
 <!---
